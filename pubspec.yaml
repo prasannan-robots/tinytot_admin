@@ -1,5 +1,5 @@
 name: tinytot_admin
-description: A new Flutter project.
+description: Admin to spread books.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -38,8 +38,8 @@ dependencies:
   firebase_core: ^2.15.1
   cloud_firestore: ^4.9.1
   firebase_storage: ^11.2.6
-  image_picker: ^1.0.4
   file_picker: ^5.5.0
+  firebase_auth: ^4.9.0
 
 dev_dependencies:
   flutter_test:
