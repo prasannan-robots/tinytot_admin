@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "485271178666",
+    "project_id": "tinytot-41511",
+    "storage_bucket": "tinytot-41511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485271178666:android:801e90feebcf0ddd622fd3",
+        "android_client_info": {
+          "package_name": "com.example.tinytot_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485271178666-fn7c61um0unqush7u273sp5mjcn3mah5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokBlpEd64pPIszR8wQNUwGzRdG-MxOHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485271178666-fn7c61um0unqush7u273sp5mjcn3mah5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485271178666-3s0q369ikhieujrc437jo9iuf4m11r5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tinytot.tinytotApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485271178666:android:118808b4ff91c6ef622fd3",
+        "android_client_info": {
+          "package_name": "com.tinytot.tinytot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485271178666-fn7c61um0unqush7u273sp5mjcn3mah5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokBlpEd64pPIszR8wQNUwGzRdG-MxOHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485271178666-fn7c61um0unqush7u273sp5mjcn3mah5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485271178666-3s0q369ikhieujrc437jo9iuf4m11r5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tinytot.tinytotApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
